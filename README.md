@@ -24,7 +24,7 @@ Ben bir **Bilgisayar Mühendisliği** öğrencisiyim. Veri görselleştirme ve i
 ---
 
 ### 📫 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](BURAYA_KENDI_LINKINI_YAPISTIR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=sem-ga_campid.19331681909_asid.168715020864_crid.698313460548_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9221707)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melekilerialkan@gmail.com)
 
 ---
