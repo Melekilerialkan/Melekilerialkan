@@ -4,8 +4,7 @@
 Ben bir **Bilgisayar Mühendisliği** öğrencisiyim. Veri görselleştirme ve iş analitiği konularına meraklıyım. Şu an staj projemde **Apache Superset** üzerinde uzmanlaşıyorum.
 
 - 🎓 Mezuniyet projem için Eğitim, Kültür ve Sanat alanlarında yenilikçi fikirler geliştiriyorum.
-- 🎨 Sanatla iç içeyim; tuval boyama ve kil sanatı en büyük hobilerim.
-- 🏐 Boş zamanlarımda voleybol oynamayı seviyorum.
+
 
 ---
 
